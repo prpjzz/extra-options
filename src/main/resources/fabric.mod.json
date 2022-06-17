@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "id": "extra_options",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "name": "ExtraOptions",
   "description": "Adds the 1.17 options of reduced distortion effects and reduced fov effects",
   "authors": [
-    "Void_X_Walker"
+    "Void_X_Walker, prpjzz(build jar) "
   ],
   "contact": {
     "repo": "https://github.com/VoidXWalker/ExtraOptions"
